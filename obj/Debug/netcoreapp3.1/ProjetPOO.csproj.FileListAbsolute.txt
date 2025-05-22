@@ -1,0 +1,13 @@
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\obj\Debug\netcoreapp3.1\ProjetPOO.csprojAssemblyReference.cache
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\obj\Debug\netcoreapp3.1\ProjetPOO.AssemblyInfoInputs.cache
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\obj\Debug\netcoreapp3.1\ProjetPOO.AssemblyInfo.cs
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\obj\Debug\netcoreapp3.1\ProjetPOO.csproj.CoreCompileInputs.cache
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\bin\Debug\netcoreapp3.1\ProjetPOO.exe
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\bin\Debug\netcoreapp3.1\ProjetPOO.deps.json
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\bin\Debug\netcoreapp3.1\ProjetPOO.runtimeconfig.json
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\bin\Debug\netcoreapp3.1\ProjetPOO.runtimeconfig.dev.json
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\bin\Debug\netcoreapp3.1\ProjetPOO.dll
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\bin\Debug\netcoreapp3.1\ProjetPOO.pdb
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\obj\Debug\netcoreapp3.1\ProjetPOO.dll
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\obj\Debug\netcoreapp3.1\ProjetPOO.pdb
+C:\Users\Kristy\Documents\Cycle ingénieur A3\Programmation_Orientes_Objets\TD\ProjetPOO\ProjetPOO\obj\Debug\netcoreapp3.1\ProjetPOO.genruntimeconfig.cache
